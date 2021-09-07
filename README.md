@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**CJAkkuec/CJAkkuec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **becoming a Web Developer**
+- 🌱 I’m currently learning **markdown**
+- 💬 Ask me about **music**
 
-Here are some ideas to get you started:
+### Tech & Tools Preference
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About me
+
+![sea](https://user-images.githubusercontent.com/90191489/132323102-1aae1075-98d3-4a5d-8073-68a03483b06a.JPG)
+
+### Things I like
+- **Clean Code**
+- Documentations
+- All things artsy and crafty
+- **The sea**
+
+### Things I don't like
+- **Apple (the company)**
+- Indiscriminate capitalism
+- Wilful ignorance
+- **Cheese**
+
+### My favorite code
+```javascript
+alert('Hello, World!');
+```
+
+### Socials
+[CJAkkuec - Portfolio](http://cjakkuec.work/)
