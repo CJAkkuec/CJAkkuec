@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on **becoming a Web Developer**
-- 🌱 I’m currently learning **markdown**
+- 🔭 **I'm a Web Developer**
+- 🌱 I’m currently learning **Zustand**
 - 💬 Ask me about **music**
 
 ### Tech & Tools Preference
@@ -21,13 +21,10 @@
 ### Things I don't like
 - **Apple (the company)**
 - Indiscriminate capitalism
-- Wilful ignorance
+- Willful ignorance
 - **Cheese**
 
 ### My favorite code
 ```javascript
 alert('Hello, World!');
 ```
-
-### Socials
-[CJAkkuec - Portfolio](http://cjakkuec.work/)
