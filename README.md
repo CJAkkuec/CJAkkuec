@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 **I'm a Web Developer**
-- 🌱 I’m currently learning **Zustand**
+- 🌱 I’m currently learning **Testing**
 - 💬 Ask me about **music**
 
 ### Tech & Tools Preference
@@ -13,18 +13,18 @@
 ![sea](https://user-images.githubusercontent.com/90191489/132323102-1aae1075-98d3-4a5d-8073-68a03483b06a.JPG)
 
 ### Things I like
-- **Clean Code**
-- Documentations
+- **Learning**
+- Documentation
 - All things artsy and crafty
 - **The sea**
 
 ### Things I don't like
-- **Apple (the company)**
+- **No documentation**
 - Indiscriminate capitalism
 - Willful ignorance
 - **Cheese**
 
 ### My favorite code
-```javascript
-alert('Hello, World!');
+```js
+console.log('Hello, World!');
 ```
